@@ -1,5 +1,8 @@
 # Recipes-CLI
 
+Future:
+Create much better UX, better user validation, typescript conversion, tests
+
 Clone the repository:
 
 ```
